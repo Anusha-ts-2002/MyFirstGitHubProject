@@ -1,3 +1,13 @@
 body{
     background-color: aqua;
 }
+#courses{
+    display: flex;
+}
+#courses div{
+    width: 300px;
+    height: 300px;
+    background-color: cornsilk;
+    margin: 20px;
+    text-align: center;
+}
